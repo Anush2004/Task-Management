@@ -1,4 +1,4 @@
-# Task Management Application using the MERN stack (MongoDB, Express.js, React.js, Node.js). (Mongodb, Express.js, React.js and Node.js) 
+# Task Management Application using the MERN stack (MongoDB, Express.js, React.js, Node.js)
 
 
 
